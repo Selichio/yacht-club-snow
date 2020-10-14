@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-14 09:25:07</sys_created_on>
+        <sys_id>9c73239e2fff1010cef2d0e62799b659</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_282681_yacht_clu_verleih.x_282681_yacht_clu.member</sys_name>
+        <sys_package display_value="Yacht Club " source="x_282681_yacht_clu">4d41afd62fff1010cef2d0e62799b663</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Yacht Club ">4d41afd62fff1010cef2d0e62799b663</sys_scope>
+        <sys_security_acl display_value="x_282681_yacht_clu_verleih">1473671a2fff1010cef2d0e62799b60d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9c73239e2fff1010cef2d0e62799b659</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-14 09:25:07</sys_updated_on>
+        <sys_user_role display_value="x_282681_yacht_clu.member" name="x_282681_yacht_clu.member">16c1e3de2fbf1010cef2d0e62799b6a7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Yacht Club ">4d41afd62fff1010cef2d0e62799b663</application>
+        <file_path/>
+        <instance_id>e595bdd9db098450f492c597059619f0</instance_id>
+        <instance_name>dev94506</instance_name>
+        <name>sys_security_acl_role_9c73239e2fff1010cef2d0e62799b659</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-14 09:25:07</sys_created_on><sys_id>9c73239e2fff1010cef2d0e62799b659</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_282681_yacht_clu_verleih.x_282681_yacht_clu.member</sys_name><sys_package display_value="Yacht Club " source="x_282681_yacht_clu">4d41afd62fff1010cef2d0e62799b663</sys_package><sys_policy/><sys_scope display_value="Yacht Club ">4d41afd62fff1010cef2d0e62799b663</sys_scope><sys_security_acl display_value="x_282681_yacht_clu_verleih">1473671a2fff1010cef2d0e62799b60d</sys_security_acl><sys_update_name>sys_security_acl_role_9c73239e2fff1010cef2d0e62799b659</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-14 09:25:07</sys_updated_on><sys_user_role display_value="x_282681_yacht_clu.member" name="x_282681_yacht_clu.member">16c1e3de2fbf1010cef2d0e62799b6a7</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1096045423</payload_hash>
+        <record_name>x_282681_yacht_clu_verleih.x_282681_yacht_clu.member</record_name>
+        <reverted_from/>
+        <source>c541ab1e2fff1010cef2d0e62799b630</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-14 09:25:07</sys_created_on>
+        <sys_id>1473239e2fff1010cef2d0e62799b65c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>175266d6fbf0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-14 09:25:07</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>5c73239eabff10101a242d9448bf825b</update_guid>
+        <update_guid_history>5c73239eabff10101a242d9448bf825b:-1096045423</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_282681_yacht_clu_verleih.x_282681_yacht_clu.member">25b748a62f735010cef2d0e62799b6b7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-14 12:03:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>1dee2cad54104d409de1ac9b0d84a400</sys_id>
+        <sys_metadata>9c73239e2fff1010cef2d0e62799b659</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_282681_yacht_clu_verleih.x_282681_yacht_clu.member</sys_name>
+        <sys_package display_value="Yacht Club " source="x_282681_yacht_clu">4d41afd62fff1010cef2d0e62799b663</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Yacht Club ">4d41afd62fff1010cef2d0e62799b663</sys_scope>
+        <sys_scope_delete display_value="">26ae6ae843414d0f914b43497acec449</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_9c73239e2fff1010cef2d0e62799b659</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_9c73239e2fff1010cef2d0e62799b659">1473239e2fff1010cef2d0e62799b65c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-14 12:03:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

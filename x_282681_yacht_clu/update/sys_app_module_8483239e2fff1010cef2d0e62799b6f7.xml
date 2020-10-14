@@ -13,7 +13,7 @@
         <mobile_title>Create New</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_282681_yacht_clu_verleih</name>
-        <order>5</order>
+        <order>3</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -24,17 +24,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8483239e2fff1010cef2d0e62799b6f7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Create New</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Reservierung erstellen</sys_name>
         <sys_overrides/>
         <sys_package display_value="Yacht Club " source="x_282681_yacht_clu">4d41afd62fff1010cef2d0e62799b663</sys_package>
         <sys_policy/>
         <sys_scope display_value="Yacht Club ">4d41afd62fff1010cef2d0e62799b663</sys_scope>
         <sys_update_name>sys_app_module_8483239e2fff1010cef2d0e62799b6f7</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-14 09:25:22</sys_updated_on>
+        <sys_updated_on>2020-10-14 12:00:00</sys_updated_on>
         <timeline_page/>
-        <title>Create New</title>
+        <title>Reservierung erstellen</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

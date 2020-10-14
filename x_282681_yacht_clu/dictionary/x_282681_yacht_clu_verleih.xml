@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Verleih" max_length="40" name="x_282681_yacht_clu_verleih" type="collection">
+    <element label="Verleih" max_length="40" name="x_282681_yacht_clu_verleih" sizeclass="0" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Ausleihdatum" max_length="40" name="ausleihdatum" type="glide_date"/>
-        <element attributes="encode_utf8=false" label="Ausleiher" max_length="32" name="ausleiher" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Ausleiher" max_length="32" name="ausleiher" reference="sys_user" reference_qual="roles=x_282681_yacht_clu.member^EQ" reference_qual_condition="roles=x_282681_yacht_clu.member^EQ" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Ausweisnummer" max_length="40" name="ausweisnummer" type="string"/>
         <element label="Bestätigt" max_length="40" name="bestaetigt" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Teilnehmerliste" max_length="4000" name="teilnehmerliste" reference="sys_user" reference_qual="roles=x_282681_yacht_clu.member^EQ" reference_qual_condition="roles=x_282681_yacht_clu.member^EQ" type="glide_list"/>
         <element attributes="encode_utf8=false" label="Yacht" max_length="32" name="yacht" reference="x_282681_yacht_clu_yacht" type="reference"/>
         <index name="index">
             <element name="yacht"/>
